@@ -3,7 +3,6 @@ $is_auth = (bool) rand(0, 1);
 // new line
 $user_name = 'Константин';
 $user_avatar = 'img/user.jpg';
-// another line`
 ?>
 <!DOCTYPE html>
 <html lang="ru">
